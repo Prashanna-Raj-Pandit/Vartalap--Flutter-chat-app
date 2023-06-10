@@ -4,7 +4,7 @@
  ## WELCOME PAGE:
  
  
-<img src="images/wlc.png"> 
+<img height="350" height="500" src="images/wel.png"> 
 
 ## Login Interface
 

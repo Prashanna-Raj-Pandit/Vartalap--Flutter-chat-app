@@ -4,8 +4,11 @@
  ## WELCOME PAGE:
  
  
-<img height="350" height="500" src="images/wel.png"> 
+<img width="350" height="500" src="images/wel.png"> 
 
 ## Login Interface
 
-<img src="images/login.png">
+<img width="350" height="500" src="images/login.png">
+
+## chat screen
+<img width="350" height="500" src="images/chat1.png"> <img width="350" height="500" src="images/chat2.png">

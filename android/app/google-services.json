@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038602376943",
+    "project_id": "vartalapupdated",
+    "storage_bucket": "vartalapupdated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038602376943:android:fb31f87add255ce9af2d1a",
+        "android_client_info": {
+          "package_name": "com.example.vartalap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038602376943-pjb89s0eobmrpkv1c9p7aac8tnh692ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAI9VHM9uyudcURz45GznCfT8YD_x3SiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038602376943-pjb89s0eobmrpkv1c9p7aac8tnh692ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
